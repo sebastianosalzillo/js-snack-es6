@@ -25,6 +25,8 @@ function trovaBiciLeggera(biciArray) {
 const biciConPesoMinore = trovaBiciLeggera(bici);
 console.log("La bici con il peso minore è:", biciConPesoMinore);
 
+// ESERCIZIO 2
+
 const squadre = [
     { nome: 'Juventus', punti: 0, falliSubiti: 0 },
     { nome: 'Milan', punti: 0, falliSubiti: 0 },
